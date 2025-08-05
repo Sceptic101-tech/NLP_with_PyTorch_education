@@ -1,0 +1,1 @@
+{"token_to_idx": {"1": 0, "0": 1}, "mask_token": "<MASK>", "unk_token": "<UNK>", "bos_token": "BOS", "eos_token": "EOS", "is_lexical_tokens": false}
